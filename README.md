@@ -1,2 +1,2 @@
 # Python-self-study
-Here are my Python scripts. Results of my Python self-studying.
+I decided to collect all my Python scripts files which I made during my  self-studying.
